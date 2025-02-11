@@ -8,6 +8,15 @@
 -Divirta-se. <br>
 <br>
 <br>
+
+Imagens do jogo:
+![image](https://github.com/user-attachments/assets/19059114-4c60-4f28-bf66-c118336293b6)
+
+
+![image](https://github.com/user-attachments/assets/da81bd51-128d-4ccb-83c2-ec9fe437560d)
+
+
+
 Arte do jogo e musica:<br>
 https://kenney.nl/<br>
 https://opengameart.org/<br>
